@@ -12,3 +12,6 @@ Note: I tried all the headers from 1 to 6.
 ``` javascript
 var myVar = "The cat says: Hello, world! :)";
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
